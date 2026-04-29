@@ -16,19 +16,19 @@ Elvárt működés a javítás után:
 
 hallgatok = [
 	{"nev": "Anna", "pont": 78},
-	{"nev": "Bela", "pont": 54}
+	{"nev": "Bela", "pont": 54},
 	{"nev": "Csilla", "pont": 91},
 	{"nev": "David", "pont": 63},
 ]
 
-def atlag_pontszam(adatok)
+def atlag_pontszam(adatok):
 	osszeg = 0
 	for elem in adatok:
 		osszeg += elem["pont"]
 	return osszeg / len(adatok)
 
 def sikeres_hallgatok_listaja(adatok):
-	return [elem["nev"] for elem in adatok if elem["pont"] >= 60
+	return [elem["nev"] for elem in adatok if elem["pont"] >= 60]
 
 if __name__ == "__main__":
 	sikeres_hallgatok = sikeres_hallgatok_listaja(hallgatok)

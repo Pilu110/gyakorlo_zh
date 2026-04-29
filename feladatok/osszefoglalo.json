@@ -1,0 +1,9 @@
+{
+  "hallgatok_szama": 3,
+  "atlagok": {
+    "Anna": 83.66666666666667,
+    "Bela": 54.666666666666664,
+    "Csilla": 92.0
+  },
+  "legjobb_hallgato": "Csilla"
+}

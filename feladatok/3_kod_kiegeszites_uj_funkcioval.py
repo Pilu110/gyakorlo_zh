@@ -49,16 +49,21 @@ class Konyvtar:
 		return [konyv.cim for konyv in self.konyvek if konyv.kolcsonozheto]
 
 	def keres_szerzo_szerint(self, szerzo):
-		# TODO: valósítsd meg
-		pass
+		return [konyv.cim for konyv in self.konyvek if konyv.szerzo == szerzo]
 
 	def elerheto_konyvek_szama(self):
-		# TODO: valósítsd meg
-		pass
+		return sum(1 for konyv in self.konyvek if konyv.kolcsonozheto)
 
 	def mentes_json_fajlba(self, fajlnev):
-		# TODO: valósítsd meg
-		pass
+		adatok = []
+		for konyv in self.konyvek:
+			adatok.append({
+				"cim": konyv.cim,
+				"szerzo": konyv.szerzo,
+				"kolcsonozheto": konyv.kolcsonozheto
+			})
+		with open(fajlnev, 'w', encoding='utf-8') as f:
+			json.dump(adatok, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
