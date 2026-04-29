@@ -42,7 +42,7 @@ Az alábbi feladattípusok szerepelnek a dolgozatban:
 ## Beadás
 
 A ZH végén a saját forkolt repository linkjét kell elküldeni emailben
-az istvan_vincze@epam.com emailcímre.
+az oktató emailcímére.
 A tárgyban szerepeljen a "ZH II. - [Saját neved]" szöveg.
 
 ## AI használat dokumentálása
