@@ -9,7 +9,7 @@ A megoldás során:
 - használható Python dokumentáció
 - használható internetes keresés (pl. StackOverflow)
 - használható AI eszköz (pl. ChatGPT, Copilot)
-- NEM ENGEDÉLYEZETT bármilyen kommunikáció más hallgatókkal vagy külső személyekkel
+- **NEM ENGEDÉLYEZETT** bármilyen kommunikáció más hallgatókkal vagy külső személyekkel
 
 ## Fontos szabályok
 
