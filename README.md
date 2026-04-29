@@ -48,7 +48,7 @@ A tárgyban szerepeljen a "ZH II. - [Saját neved]" szöveg.
 ## AI használat dokumentálása
 
 A nem dokumentált AI használatot 100%-ban saját munkának fogom tekinteni.
-Az ilyen megoldásokba a kötelező program bemutatása során bele fogok kérdezni.
+==Az ilyen megoldásokba a kötelező program bemutatása során bele fogok kérdezni.==
 
 Az AI_REFERENCES.md fájlba kerüljön dokumentálásra minden AI eszköz használata, mely a megoldás során alkalmazásra került. 
 Minden egyes AI eszköz használatát külön szekcióban kell dokumentálni, mely tartalmazza:
