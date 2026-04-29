@@ -7,8 +7,9 @@ A repository-ban található feladatokat kell megoldani a rendelkezésre álló 
 A megoldás során:
 
 - használható Python dokumentáció
-- használható internetes keresés
+- használható internetes keresés (pl. StackOverflow)
 - használható AI eszköz (pl. ChatGPT, Copilot)
+- NEM ENGEDÉLYEZETT bármilyen kommunikáció más hallgatókkal vagy külső személyekkel
 
 ## Fontos szabályok
 
@@ -36,7 +37,7 @@ Az alábbi feladattípusok szerepelnek a dolgozatban:
 1. Forkold ezt a repository-t saját GitHub accountodra.
 2. Clone-old és nyisd meg PyCharm-ban a tanult módon.
 3. Oldd meg a feladatokat a /feladatok mappában.
-4. Commit & Pushold a kész megoldásokat.
+4. Commit & Pushold a kész megoldásokat a tanult módon.
 
 ## Beadás
 
